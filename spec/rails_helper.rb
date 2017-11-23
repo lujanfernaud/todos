@@ -9,6 +9,7 @@ require 'rspec/rails'
 
 require 'support/database_cleaner'
 require 'support/features/sign_in'
+require 'support/features/todo_helper'
 
 # Requires supporting ruby files with custom matchers and macros, etc, in
 # spec/support/ and its subdirectories. Files matching `spec/**/*_spec.rb` are
